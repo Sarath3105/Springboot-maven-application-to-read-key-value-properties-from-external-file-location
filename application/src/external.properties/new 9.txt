@@ -1,0 +1,2 @@
+external.key1=Sarath;
+external.key2=Reddy;
